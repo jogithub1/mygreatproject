@@ -4,7 +4,7 @@
 	<groupId>org.dta</groupId>
 	<artifactId>my_great_project</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-
+<!-- hela -->
 	<dependencies>
 		<dependency>
 			<groupId>com.google.guava</groupId>
